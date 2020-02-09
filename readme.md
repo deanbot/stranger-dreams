@@ -4,7 +4,7 @@
 
 ActionScript source code for a point-and-click, graphic adventure game.
 
-Code is provided for historical/educational purposes only, the last revision was made in 02/2012.
+Code is provided for historical/educational purposes only - the last revision was made in 02/2012.
 
 ## About
 
@@ -16,9 +16,9 @@ Website: [coming soon]
 
 ## Play it!
 
-Play (with Adobe Air) at [coming soon]
+Play (with Adobe Air) at [coming soon].
 
-Instruction:
+Instructions:
   * At "Station" use code "Mabel & Waning Range Station"
   * See on page instructions for downloading & installing Adobe Air and Stranger Dreams: The Watch
 
