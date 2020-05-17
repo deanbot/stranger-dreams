@@ -12,7 +12,7 @@ Stranger Dreams: The Watch was a game created in 2012 and presented during the 2
 
 The game was never developed past a small beta version including a tutorial and an opening chapter.
 
-Website: [coming soon]
+Website: [strangerdreams.dreamfed.net](https://strangerdreams.dreamfed.net)
 
 ## Play it!
 
